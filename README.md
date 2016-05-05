@@ -5,7 +5,7 @@ pmem.github.io
 
 This repo contains the jekyll-based web site for http://pmem.io.
 
-Test test
+Test test 2
 
 The contents of this site are BSD-licensed open source.
 
