@@ -9,7 +9,7 @@ useful APIs for server applications wanting to use persistent memory.
 You can [read more about the NVM Library](/nvml/) or
 [go directly to the source](https://github.com/pmem/nvml/).
 
-[go to test 0001.1]: https://github.com/wlemkows/nvml/blob/gh-pages/libpmem/libpmem.3.html
+[go to test 0001.1]: https://github.com/wlemkows/nvml/blob/gh-pages/libpmem/libpmem.3.html "test"
 
 Contributions are welcome!
 
