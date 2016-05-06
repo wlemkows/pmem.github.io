@@ -8,6 +8,9 @@ a library (set of libraries, actually) designed to provide some
 useful APIs for server applications wanting to use persistent memory.
 You can [read more about the NVM Library](/nvml/) or
 [go directly to the source](https://github.com/pmem/nvml/).
+
+[go to test 0001](https://github.com/wlemkows/nvml/blob/gh-pages/libpmem/libpmem.3.html).
+
 Contributions are welcome!
 
 The Linux NVM Library builds on the **Direct Access** (DAX) changes
